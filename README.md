@@ -1,6 +1,9 @@
 # ULE_DevSecOps_my_runners
 ULE_DevSecOps_my_runners - Lab 3: CI/CD with Self-Hosted Runners
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
